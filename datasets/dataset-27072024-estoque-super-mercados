@@ -1,6 +1,39 @@
-CATEGORIA,NOME_DO_PRODUTO,DATA_ENTRADA,FORNECEDOR,PRECO,ID_PRODUTO,QUANTIDADE_ESTOQUE,QUANTIDADE_MÍNIMA,DATA_SAÍDA
-Alimentos,Arroz,27-07-2024,SuperAlimentos,20.50,001,150,30,2025-12-31
-Bebidas,Leite,27-07-2024,Laticínios_SA,3.20,002,80,20,2024-08-15
-Produtos_de_Limpeza,Detergente,27-07-2024,Limpeza_Pura,7.99,003,50,10,N/A,2024-06-10
-Horti_fruti,Maçã,27-07-2024,Frutas_do_Campo,4.50,004,200,50,2024-08-01
-Padaria,Pão_Integral,27-07-2024,Panificação_Panificadora_X,5.00,005,120,25,2024-07-20
+Data: 2024-01-01
+Produto: Widget A
+Estoque Atual: 150
+Vendas Passadas (últimos 30 dias): 500 unidades
+Previsão de Vendas (próximos 30 dias): 550 unidades
+Estoque Ideal: 200 unidades
+Ação Recomendada: Reabastecer com 100 unidades
+
+Data: 2024-01-01
+Produto: Gadget B
+Estoque Atual: 80
+Vendas Passadas (últimos 30 dias): 300 unidades
+Previsão de Vendas (próximos 30 dias): 350 unidades
+Estoque Ideal: 120 unidades
+Ação Recomendada: Reabastecer com 90 unidades
+
+Data: 2024-01-01
+Produto: Doodad C
+Estoque Atual: 200
+Vendas Passadas (últimos 30 dias): 150 unidades
+Previsão de Vendas (próximos 30 dias): 180 unidades
+Estoque Ideal: 220 unidades
+Ação Recomendada: Reabastecer com 0 unidades
+
+Data: 2024-01-01
+Produto: Thingamajig D
+Estoque Atual: 50
+Vendas Passadas (últimos 30 dias): 100 unidades
+Previsão de Vendas (próximos 30 dias): 120 unidades
+Estoque Ideal: 80 unidades
+Ação Recomendada: Reabastecer com 50 unidades
+
+Data: 2024-01-01
+Produto: Doohickey E
+Estoque Atual: 30
+Vendas Passadas (últimos 30 dias): 80 unidades
+Previsão de Vendas (próximos 30 dias): 90 unidades
+Estoque Ideal: 50 unidades
+Ação Recomendada: Reabastecer com 20 unidades
