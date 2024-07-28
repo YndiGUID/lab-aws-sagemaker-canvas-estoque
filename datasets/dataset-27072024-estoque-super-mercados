@@ -1,39 +1,7 @@
-Data: 2024-01-01
-Produto: Widget A
-Estoque Atual: 150
-Vendas Passadas (últimos 30 dias): 500 unidades
-Previsão de Vendas (próximos 30 dias): 550 unidades
-Estoque Ideal: 200 unidades
-Ação Recomendada: Reabastecer com 100 unidades
+DIA,PRODUTO,ESTQOUE,VENDAS_PASSADAS,PREVISAO_DE_VENDAS,ESTOQUE_TOTAL,REABASTECER
+2024-01-01,Widget_A,150UN,500UN,550UN,200UN,100UNI
+2024-01-01,Gadget_B,80UN,300UN,350UN,120UN,90UN
+2024-01-01,Doodad_C,200UN,150UN,180UN,220UN,0UN
+2024-01-01,Thingamajig_D,50UN,100UN,120UN,80UN,50UN
+2024-01-01,Doohickey_E,30UN,80UN,90UN,50UN,20UNI
 
-Data: 2024-01-01
-Produto: Gadget B
-Estoque Atual: 80
-Vendas Passadas (últimos 30 dias): 300 unidades
-Previsão de Vendas (próximos 30 dias): 350 unidades
-Estoque Ideal: 120 unidades
-Ação Recomendada: Reabastecer com 90 unidades
-
-Data: 2024-01-01
-Produto: Doodad C
-Estoque Atual: 200
-Vendas Passadas (últimos 30 dias): 150 unidades
-Previsão de Vendas (próximos 30 dias): 180 unidades
-Estoque Ideal: 220 unidades
-Ação Recomendada: Reabastecer com 0 unidades
-
-Data: 2024-01-01
-Produto: Thingamajig D
-Estoque Atual: 50
-Vendas Passadas (últimos 30 dias): 100 unidades
-Previsão de Vendas (próximos 30 dias): 120 unidades
-Estoque Ideal: 80 unidades
-Ação Recomendada: Reabastecer com 50 unidades
-
-Data: 2024-01-01
-Produto: Doohickey E
-Estoque Atual: 30
-Vendas Passadas (últimos 30 dias): 80 unidades
-Previsão de Vendas (próximos 30 dias): 90 unidades
-Estoque Ideal: 50 unidades
-Ação Recomendada: Reabastecer com 20 unidades
