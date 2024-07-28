@@ -1,0 +1,6 @@
+Categoria,Fornecedor,Preço_Unitário,Quantidade_Mínima,Data_de_Validade,Data_de_Entrada
+Alimentos,SuperAlimentos,20.50,150,30,2025-12-31,2024-06-01
+Bebidas,Laticínios_SA,3.20,80,20,2024-08-15,2024-06-05	
+Produtos_de_Limpeza,Limpeza_Pura,7.99,50,10,N/A,2024-06-10,2024-07-01
+Horti_fruti,Frutas do Campo,4.50,200,50,2024-08-01,2024-06-15	
+Padaria,Panificação_Panificadora_X,5.00,120,25,2024-07-20,2024-06-20
